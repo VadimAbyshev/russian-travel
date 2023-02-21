@@ -17,16 +17,8 @@
 
 
   @media screen and (max-width:  576px) {
-    .intro__text{
-        
-        max-width: 288px;
-       
+    .intro__text{  
+        max-width: 288px;   
     }
   }
 
-@media screen and (max-width: 321px) {
-    .intro__text{
-        
-        max-width: 288px;
-    }
-}

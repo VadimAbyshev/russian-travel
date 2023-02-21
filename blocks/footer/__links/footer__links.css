@@ -3,6 +3,7 @@
     .footer__links{
         flex-direction: column;
         display: flex;
+        
       
   }
 }
@@ -10,6 +11,7 @@
     .footer__links{
        flex-direction: column;
        display: flex;
+       justify-content: flex-start;
        
         
     }

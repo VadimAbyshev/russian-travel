@@ -7,18 +7,10 @@
     line-height: 22px;
 }
 
-
 @media screen and (max-width: 576px) {
     .place__link{
-      padding-left: 16px;
-      
-
-    }
-}
-
-@media screen and (max-width: 319px) {
-    .place__link {
         padding-left: 16px;
         
+
     }
 }

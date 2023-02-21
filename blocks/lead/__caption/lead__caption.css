@@ -29,21 +29,5 @@
         padding-left: 24px;
     }
   }
-@media screen and (max-width: 688px) {
-    .lead__caption{
-        padding-left: 24px;
-    }
-  }
-  @media screen and (max-width:  576px) {
-    .lead__caption {
-        padding-left: 24px;
-    }
-  }
 
-@media screen and (max-width: 321px) {
-    .lead__caption {
-        padding-left: 24px;
-      
-    }
-  }
   

@@ -10,18 +10,10 @@
     color: #AAAAAA;
     
 }
-
 @media screen and (max-width: 576px) {
-    .place__url-heading {
-      padding-left: 16px;
-      
-
-    }
-}
-
-@media screen and (max-width: 319px) {
-    .place__url-heading {
+    .place__url-heading{
         padding-left: 16px;
         
+
     }
 }
