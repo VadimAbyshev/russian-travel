@@ -2,7 +2,7 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
-@import url(../blocks/link/link__decoration.css);
+@import url(../blocks/link/link-decoration.css);
 @import url(../blocks/header/__lang-container/header__lang-container.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang/header__lang-active.css);
@@ -35,3 +35,7 @@
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+
+body{
+    background-color: #2a2c2f;
+}
