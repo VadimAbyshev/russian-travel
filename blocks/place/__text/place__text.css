@@ -1,14 +1,15 @@
 .place__text{
-   width: 100%;
+   max-width: 100%;
 }
 
 
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 767px) {
     .place__text {
-        padding-left: 16px;
-        max-width: 288px;
-        margin: 0;
+       
+        max-width: calc(100% - 32px);
+        margin: auto;
+        
     }
 }

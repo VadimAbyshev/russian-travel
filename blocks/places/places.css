@@ -3,13 +3,6 @@
     max-width: 984px;
 }
 
-@media screen and (max-width: 1200px) {
-    .places {
-        max-width: 928px;
-
-    }
-  }
-
 
 @media screen and (max-width: 1024px) {
     .places{
@@ -29,24 +22,11 @@
 
 
 
-@media screen and (max-width: 688px) {
-    .places {
-        max-width: 720px;
-        margin-left: 24px;
-        margin-right: 24px;
-    }
-  }
-  @media screen and (max-width:  576px) {
-    .places{
-        width: calc(100% - 48px);
-    }
-  }
-
-@media screen and (max-width: 400px) {
+  @media screen and (max-width: 767px) {
     .places {
         
-        margin: 64px 0 0;
-        width: 100%;
+        margin: 64px auto 0;
+        max-width: 100%;
     }
   }
   

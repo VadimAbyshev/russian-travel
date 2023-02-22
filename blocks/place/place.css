@@ -29,22 +29,14 @@
   }
 }
 
-@media screen and (max-width: 688px) {
-  .place {
-    grid-row-gap: 28px;
-    grid-template-columns: repeat(1, auto);
-    width: 100%;
-    margin-left: 16px;
-  }
-}
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 767px) {
   .place {
     grid-row-gap: 32px;
-    grid-template-columns: repeat(1, auto);
-    width: 100%;
+    grid-template-columns: repeat(1, auto); 
     margin-left: 0;
     padding-top: 50px;
+    max-width: 100%;
   }
 }
 
